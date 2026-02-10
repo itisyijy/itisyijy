@@ -8,3 +8,4 @@ You can click the Preview link to take a look at your changes.
 * ITM Major, SeoulTech (Seoul, Korea) & Northumbria University (Newcastle upon Tyne, UK)
 * B.S. Intern, Big Data-Driven AI Lab.(BIGBASE), SeoulTech
 * 42 Seoul 8th Cadet
+* GDGoC SeoulTech 5th Member

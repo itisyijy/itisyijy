@@ -5,7 +5,18 @@ itisyijy/itisyijy is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+Education
 * ITM Major, SeoulTech (Seoul, Korea) & Northumbria University (Newcastle upon Tyne, UK)
 * B.S. Intern, Big Data-Driven AI Lab.(BIGBASE), SeoulTech
 * 42 Seoul 8th Cadet
 * GDGoC SeoulTech 5th Member
+
+Projects
+* MORETALE:
+* MinDrift:
+* Airquality Analysis:
+* Chalkak:
+* Depth or Width:
+
+Publications
+* DELTA: Drift-aware Efficient Lightweight Test-time Adaptation for Long-term Time-series Forecasting in Federated Learning (KCC 2026 Best Paper Award)

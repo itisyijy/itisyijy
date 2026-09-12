@@ -35,17 +35,7 @@ I like problems where a research idea has to survive contact with a real service
 
 ---
 
-## 🔭 What I Focus On · 관심 분야
-
-| | Focus | 내용 |
-|---|---|---|
-| **Research**<br><sub>연구</sub> | Federated learning, test-time adaptation, and long-term time-series forecasting — keeping models accurate after the data shifts underneath them. | 연합학습, 테스트 시점 적응, 장기 시계열 예측. 배포 이후 데이터 분포가 바뀌어도 모델 정확도를 유지하는 문제를 다룹니다. |
-| **Engineering**<br><sub>엔지니어링</sub> | Backend APIs, AI service pipelines, and data processing workflows that stay reliable outside a notebook. | 백엔드 API, AI 서비스 파이프라인, 데이터 처리 워크플로우. 노트북 밖에서도 안정적으로 돌아가는 코드를 씁니다. |
-| **Product**<br><sub>프로덕트</sub> | Turning ambiguous user problems into features with a number attached — something you can measure and argue about. | 모호한 사용자 문제를 측정 가능한 기능으로 바꾸는 일. 숫자로 이야기할 수 있는 형태를 지향합니다. |
-
----
-
-## 🏆 Awards · 수상
+## 🏆 Awards & Publications · 수상 · 논문
 
 | Award | Competition / Conference | Project | Date |
 |---|---|---|---|
@@ -53,12 +43,7 @@ I like problems where a research idea has to survive contact with a real service
 | 🎨 **Design Innovation Award** | Shinhan Square Bridge Youth Hackathon | [Loovi](https://github.com/Shinhan-KLLJS) | 2026.07 |
 | ⭐ **Popularity Award** | quad S: Solution Challenge, GDGoC | [MORETALE AI](https://github.com/itisyijy/MoreTale-AI) | 2026.06 |
 
----
-
-## 📝 Publications · 논문
-
-* **DELTA: Drift-aware Efficient Lightweight Test-time Adaptation for Long-term Time-series Forecasting in Federated Learning**
-  <br>*Korea Computer Congress (KCC) 2026* — **Best Paper Award** · [code](https://github.com/itisyijy/DELTA-KCC2026)
+📄 **DELTA: Drift-aware Efficient Lightweight Test-time Adaptation for Long-term Time-series Forecasting in Federated Learning** · *KCC 2026*
 
 ---
 
